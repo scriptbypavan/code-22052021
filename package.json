@@ -1,0 +1,20 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptbypavan/code-22052021.git"
+  },
+  "author": "Pavan Kumar Kandoori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriptbypavan/code-22052021/issues"
+  },
+  "homepage": "https://github.com/scriptbypavan/code-22052021#readme"
+}
