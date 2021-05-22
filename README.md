@@ -1,4 +1,4 @@
-To test use the below command.
+To test, use the below command.
 
 npm test
 
